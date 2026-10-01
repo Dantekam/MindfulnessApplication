@@ -24,6 +24,20 @@ The application was designed to provide users with an accessible mobile platform
 - Git / GitHub
 - Android mobile development
 
+## Screenshots
+
+Login Page
+<img width="1556" height="2218" alt="Login" src="https://github.com/user-attachments/assets/4c4761d9-3146-42ff-a567-29c38f2924a9" />
+
+Home Screen
+<img width="1360" height="2157" alt="Home" src="https://github.com/user-attachments/assets/d55eac72-c9fb-4572-ae7d-3b563adfb475" />
+
+Exercises Screen
+<img width="1358" height="2167" alt="Exercises" src="https://github.com/user-attachments/assets/06afb55e-bc70-4f87-8f0b-51eb13cb66e7" />
+
+Journals Entry
+<img width="1374" height="2192" alt="Journal_entry" src="https://github.com/user-attachments/assets/c055a865-ce06-41fd-af83-54f43af7ff8c" />
+
 ## Firebase Integration
 
 Firebase provides the application's backend services, allowing the Flutter client to communicate with cloud-hosted user data.
